@@ -1,3 +1,6 @@
 hello!!
 Урааааааа :)
+lab3
+hello from lab3
 this text is changed :)
+main
